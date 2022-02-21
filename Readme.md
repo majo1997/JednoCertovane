@@ -8,3 +8,5 @@ ku nám. Kód som sa snažil viacej rozdeliť na samostatné časti, avšak mal 
 a tak som prešiel na canvas zo surfaceview. Pri testovaní aplikácie na mobile som mal fps 38+ avšak na tablete som mal 50+.
 Mal som v pláne sa s týmto projektom viacej hrať, napr. aj pridanie zvukových efektov, hudby, viacero typov hosťov... ale
 z časových dôvodov som to nestihol.
+
+Cesta ku zdrojovým kódom je JednoCertovane/app/src/main/java/com/example/jednocertovane/
